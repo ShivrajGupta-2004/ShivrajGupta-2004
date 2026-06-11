@@ -18,7 +18,8 @@ Looking for my first full-time role in **Java Development, Full Stack, Data Anal
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ShivrajGupta-2004&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://streak-stats.demolab.com/?user=ShivrajGupta-2004&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=ShivrajGupta-2004&theme=dark&hide_border=false)<br>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShivrajGupta-2004&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
